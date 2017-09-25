@@ -1,9 +1,8 @@
 //
 //  ViewController.swift
-//  mapboxDirection
+//  routeAlgorithm
 //
 //  Created by Shubham Batra on 23/07/17.
-//  Copyright © 2017 leaf. All rights reserved.
 //
 
 import UIKit
